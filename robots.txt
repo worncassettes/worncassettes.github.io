@@ -1,1 +1,1 @@
-Sitemap: http://www.worncassettes.com/sitemap.xml
+Sitemap: https://worncassettes.com/sitemap.xml
